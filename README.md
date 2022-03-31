@@ -12,7 +12,7 @@ To run the package you will need to install the package as well as the model, pr
 ``` sh
 # Create conda env (optional)
 conda create --name hebspacy python=3.8
-conda activate hebsafeharbor
+conda activate hebspacy
 
 # Install hebspacy
 pip install hebspacy
